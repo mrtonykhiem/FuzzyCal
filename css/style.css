@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bg-chandoan {
+	padding: 15px 0;
+	background-color: #2A9520;
+	color: #fff;
+}
+
+.bg-chandoan h1 {
+	font-size: 20px;
+}
+
+.bg-chandoan p {
+	font-size: 16px;
+}
+
+.menu-item {
+	color: #292929;
+}
+
+.chandoan {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.chandoan h1 {
+	margin-bottom: 30px;
+}
+
+.input-name {
+	text-align: right;
+}
+
+.chandoan ul {
+	text-align: center;
+}
+
+.chandoan li {
+	display: inline-block;
+}
+
+.chandoan li button {
+	background-color: #B58F90;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	width: 180px;
+	height: 45px;
+}
